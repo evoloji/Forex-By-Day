@@ -6,7 +6,7 @@
 
 
 
-``sh
+```sh
 # terminal
 git clone https://github.com/evoloji/Forex-By-Day.git
 ls Forex-By-Day
